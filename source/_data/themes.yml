@@ -1,7 +1,8 @@
-- name: stun
+- name: cactus
   description: A beautiful & simple theme
-  link: https://github.com/liuyib/hexo-theme-stun
-  preview: https://liuyib.github.io/
+  link: https://github.com/
+probberechts/hexo-theme-cactus.git
+  preview: https://
   tags:
     - responsive
     - beautiful
